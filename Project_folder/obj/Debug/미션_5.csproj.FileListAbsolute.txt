@@ -1,0 +1,55 @@
+C:\Users\엄정기\Desktop\미션_5\bin\Debug\비프.exe.config
+C:\Users\엄정기\Desktop\미션_5\bin\Debug\비프.exe
+C:\Users\엄정기\Desktop\미션_5\bin\Debug\비프.pdb
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\미션_5.csprojResolveAssemblyReference.cache
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.Class_Kookmin.resources
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.Form_Finalcial_incomeAdd.resources
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.Form_Financial_Futrue.resources
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.Form_Note7_Rename.resources
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.Form_Note7.resources
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.Form_Note7_Addnote.resources
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.Form_Financial.resources
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.Form_Schedule.resources
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.Form_Schedule_add.resources
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.Form_Schedule_delete.resources
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.Properties.Resources.resources
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\미션_5.csproj.GenerateResource.Cache
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.exe
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.pdb
+C:\Users\엄정기\Desktop\미션_5\obj\Debug\비프.Form_Futrue_Addmoney.resources
+C:\Users\엄정기\Desktop\미션_5 - 복사본\bin\Debug\비프.exe.config
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\비프.exe
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\비프.pdb
+C:\Users\엄정기\Desktop\미션_5 - 복사본\bin\Debug\비프.exe
+C:\Users\엄정기\Desktop\미션_5 - 복사본\bin\Debug\비프.pdb
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\미션_5.csprojResolveAssemblyReference.cache
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\비프.Class_Kookmin.resources
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\비프.Form_Finalcial_incomeAdd.resources
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\비프.Form_Financial_Futrue.resources
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\비프.Form_Note7_Rename.resources
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\비프.Form_Note7.resources
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\비프.Form_Note7_Addnote.resources
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\비프.Form_Financial.resources
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\비프.Form_Schedule.resources
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\비프.Form_Schedule_add.resources
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\비프.Form_Schedule_delete.resources
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\비프.Properties.Resources.resources
+C:\Users\엄정기\Desktop\미션_5 - 복사본\obj\Debug\미션_5.csproj.GenerateResource.Cache
+C:\Users\엄정기\Desktop\미션_5 - 2\bin\Debug\비프.exe.config
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\비프.exe
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\비프.pdb
+C:\Users\엄정기\Desktop\미션_5 - 2\bin\Debug\비프.exe
+C:\Users\엄정기\Desktop\미션_5 - 2\bin\Debug\비프.pdb
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\미션_5.csprojResolveAssemblyReference.cache
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\비프.Class_Kookmin.resources
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\비프.Form_Finalcial_incomeAdd.resources
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\비프.Form_Financial_Futrue.resources
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\비프.Form_Note7_Rename.resources
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\비프.Form_Note7.resources
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\비프.Form_Note7_Addnote.resources
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\비프.Form_Financial.resources
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\비프.Form_Schedule.resources
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\비프.Form_Schedule_add.resources
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\비프.Form_Schedule_delete.resources
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\비프.Properties.Resources.resources
+C:\Users\엄정기\Desktop\미션_5 - 2\obj\Debug\미션_5.csproj.GenerateResource.Cache

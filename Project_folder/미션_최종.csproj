@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A18BF725-0FD7-4887-B0A2-81833DFEB186}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>비프</RootNamespace>
+    <AssemblyName>비프</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class_AccountBook.cs" />
+    <Compile Include="Class_Property_Add.cs" />
+    <Compile Include="Financial_Design\Class_Kookmin.cs" />
+    <Compile Include="Class_Salary_Control.cs" />
+    <Compile Include="Financial_Design\Form_Finalcial_incomeAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial_Design\Form_Finalcial_incomeAdd.Designer.cs">
+      <DependentUpon>Form_Finalcial_incomeAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Financial_Design\Form_Financial_Futrue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial_Design\Form_Financial_Futrue.Designer.cs">
+      <DependentUpon>Form_Financial_Futrue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Note\Form_Note7_Rename.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Note\Form_Note7_Rename.Designer.cs">
+      <DependentUpon>Form_Note7_Rename.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Note\Form_Note7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Note\Form_Note7.Designer.cs">
+      <DependentUpon>Form_Note7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Note\Form_Note7_Addnote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Note\Form_Note7_Addnote.Designer.cs">
+      <DependentUpon>Form_Note7_Addnote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Financial_Design\Form_Financial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial_Design\Form_Financial.Designer.cs">
+      <DependentUpon>Form_Financial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Schedule\Form_Schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Schedule\Form_Schedule.Designer.cs">
+      <DependentUpon>Form_Schedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Schedule\Form_Schedule_delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Schedule\Form_Schedule_delete.Designer.cs">
+      <DependentUpon>Form_Schedule_delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Schedule\Form_Schedule_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Schedule\Form_Schedule_add.Designer.cs">
+      <DependentUpon>Form_Schedule_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Financial_Design\Class_Kookmin.resx">
+      <DependentUpon>Class_Kookmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial_Design\Form_Finalcial_incomeAdd.resx">
+      <DependentUpon>Form_Finalcial_incomeAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial_Design\Form_Financial_Futrue.resx">
+      <DependentUpon>Form_Financial_Futrue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Note\Form_Note7_Rename.resx">
+      <DependentUpon>Form_Note7_Rename.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Note\Form_Note7.resx">
+      <DependentUpon>Form_Note7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Note\Form_Note7_Addnote.resx">
+      <DependentUpon>Form_Note7_Addnote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial_Design\Form_Financial.resx">
+      <DependentUpon>Form_Financial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Schedule\Form_Schedule.resx">
+      <DependentUpon>Form_Schedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Schedule\Form_Schedule_add.resx">
+      <DependentUpon>Form_Schedule_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Schedule\Form_Schedule_delete.resx">
+      <DependentUpon>Form_Schedule_delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\닫기_비선2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\닫기_선택2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="사진\프로필\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="사진\프로필\13245505_693186030821684_367003388446162782_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="사진\프로필\16112585_814916445315308_638351524651848201_o.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
